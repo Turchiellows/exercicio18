@@ -1,5 +1,3 @@
-//package com.mycompany.exercicio18;
-
 import java.util.Scanner;
 
 public class Exercicio18 {
